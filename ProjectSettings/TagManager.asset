@@ -4,8 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
   - Ground
   - Wall
+=======
+  - Death
+  - win
+>>>>>>> checkpoint-campfire
   layers:
   - Default
   - TransparentFX

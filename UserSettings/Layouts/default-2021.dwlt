@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 119
+=======
+  controlID: 52
+>>>>>>> branch
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +224,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 92
+=======
+  controlID: 62
+>>>>>>> branch
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +253,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 93
+=======
+  controlID: 17
+>>>>>>> branch
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,7 +323,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
+=======
+    - Assets/Scenes/ThomasScene
+>>>>>>> branch
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -323,9 +339,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: f4350000
     m_LastClickedID: 13812
     m_ExpandedIDs: 00000000f435000000ca9a3b
+=======
+    m_SelectedIDs: 64600000
+    m_LastClickedID: 24676
+    m_ExpandedIDs: 00000000f25f0000f45f0000f65f0000f85f0000fa5f0000fc5f00001260000000ca9a3b
+>>>>>>> branch
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -341,8 +363,13 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 0}
     m_SearchString:
+=======
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+>>>>>>> branch
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -353,7 +380,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000f4350000
+=======
+    m_ExpandedIDs: 00000000f25f0000f45f0000f65f0000f85f0000fa5f0000fc5f0000
+>>>>>>> branch
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -475,9 +506,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs:
       m_LastClickedID: 0
       m_ExpandedIDs: 42fbffff
+=======
+      m_SelectedIDs: c8600000
+      m_LastClickedID: 24776
+      m_ExpandedIDs: 90f9ffffd2f9ffff2cfbffffc8600000d2600000
+>>>>>>> branch
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name:
@@ -539,7 +576,11 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Value: {x: 435.8, y: 188.6, z: 0}
+>>>>>>> branch
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -591,7 +632,11 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
+<<<<<<< HEAD
     m_Value: 10
+=======
+    m_Value: 474.85956
+>>>>>>> branch
   m_Ortho:
     m_Target: 0
     speed: 2

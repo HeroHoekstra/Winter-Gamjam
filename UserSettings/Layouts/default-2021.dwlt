@@ -14,47 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_PixelRect:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 2249
     y: 302.5
     width: 1206
     height: 715
   m_ShowMode: 4
   m_Title:
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 7.2000003
-    y: 50.4
-    width: 1521.6
-    height: 758.4
-=======
-<<<<<<< Updated upstream
-    x: 0
-    y: 43.2
-    width: 1536
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 780.8
-=======
-    height: 820.8
->>>>>>> checkpoint-campfire
-  m_ShowMode: 4
-  m_Title: Inspector
-=======
-    height: 772.8
-=======
-    x: 7.3333335
-    y: 50
-    width: 1692
-    height: 854.6667
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-  m_ShowMode: 4
-  m_Title: Hierarchy
->>>>>>> main
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -78,60 +43,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-<<<<<<< HEAD
-<<<<<<< HEAD
     width: 1206
     height: 665
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 119
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    width: 1521.6
-    height: 708.4
-=======
-<<<<<<< Updated upstream
-    width: 1536
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 730.8
->>>>>>> Stashed changes
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 87
-<<<<<<< HEAD
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-=======
-=======
-    height: 770.8
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 94
->>>>>>> checkpoint-campfire
-=======
-    height: 722.8
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 21
->>>>>>> Thomas1
-=======
-    width: 1692
-    height: 804.6667
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 58
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,46 +64,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 921
     y: 0
     width: 285
     height: 665
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 1161.6
-    y: 0
-    width: 360
-    height: 708.4
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-    x: 1224.8
-    y: 0
-    width: 311.19995
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 730.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    height: 770.8
-=======
-    height: 722.8
->>>>>>> Thomas1
-=======
-    x: 1348.6666
-    y: 0
-    width: 343.33337
-    height: 804.6667
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -211,37 +92,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     width: 228
     height: 394
-=======
-    width: 288
-    height: 419.2
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    width: 288
-    height: 419.2
-=======
-<<<<<<< Updated upstream
-    width: 303.2
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 441.6
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    height: 466.4
-=======
-    height: 437.6
->>>>>>> Thomas1
-=======
-    width: 334.66666
-    height: 486.66666
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -265,45 +117,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     y: 394
     width: 921
     height: 271
-=======
-    y: 419.2
-    width: 1161.6
-    height: 289.2
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    y: 419.2
-    width: 1161.6
-    height: 289.2
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-    y: 441.6
-    width: 1224.8
-    height: 289.19998
-=======
-    y: 466.4
-    width: 1224.8
-    height: 304.4
->>>>>>> checkpoint-campfire
-=======
-    y: 437.6
-    width: 1224.8
-    height: 285.19998
->>>>>>> Thomas1
-=======
-    y: 486.66666
-    width: 1348.6666
-    height: 318.00003
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -332,36 +148,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     width: 1206
     height: 715
-=======
-    width: 1521.6
-    height: 758.4
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    width: 1521.6
-    height: 758.4
-=======
-<<<<<<< Updated upstream
-    width: 1536
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 780.8
-=======
-    height: 820.8
->>>>>>> checkpoint-campfire
-=======
-    height: 772.8
->>>>>>> Thomas1
-=======
-    width: 1692
-    height: 854.6667
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -381,23 +169,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     width: 1206
-=======
-    width: 1521.6
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    width: 1521.6
-=======
-<<<<<<< Updated upstream
-    width: 1536
-=======
-    width: 1692
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -419,36 +191,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     y: 695
     width: 1206
-=======
-    y: 738.4
-    width: 1521.6
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    y: 738.4
-    width: 1521.6
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-    y: 760.8
-=======
-    y: 800.8
->>>>>>> checkpoint-campfire
-=======
-    y: 752.8
->>>>>>> Thomas1
-    width: 1536
-=======
-    y: 834.6667
-    width: 1692
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -471,60 +215,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     width: 921
     height: 665
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 92
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    width: 1161.6
-    height: 708.4
-=======
-<<<<<<< Updated upstream
-    width: 1224.8
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 730.8
->>>>>>> Stashed changes
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 16192, y: 16192}
-  vertical: 1
-  controlID: 88
-<<<<<<< HEAD
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-=======
-=======
-    height: 770.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 16192, y: 16192}
-  vertical: 1
-  controlID: 16
->>>>>>> checkpoint-campfire
-=======
-    height: 722.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 16192, y: 16192}
-  vertical: 1
-  controlID: 22
->>>>>>> Thomas1
-=======
-    width: 1348.6666
-    height: 804.6667
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 16192, y: 16192}
-  vertical: 1
-  controlID: 59
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -544,57 +240,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     width: 921
     height: 394
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 93
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    width: 1161.6
-    height: 419.2
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 89
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-    width: 1224.8
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 441.6
-=======
-    height: 466.4
->>>>>>> checkpoint-campfire
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 17
-=======
-    height: 437.6
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 23
->>>>>>> Thomas1
-=======
-    width: 1348.6666
-    height: 486.66666
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 48
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -610,45 +261,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 228
     y: 0
     width: 693
     height: 394
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 288
-    y: 0
-    width: 873.6
-    height: 419.2
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-    x: 303.2
-    y: 0
-    width: 921.60004
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 441.6
-=======
-    height: 466.4
->>>>>>> checkpoint-campfire
-=======
-    height: 437.6
->>>>>>> Thomas1
-=======
-    x: 334.66666
-    y: 0
-    width: 1014
-    height: 486.66666
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -677,49 +293,10 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 2249
     y: 726.5
     width: 920
     height: 250
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 7.2000003
-    y: 500
-    width: 1160.6
-    height: 268.2
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-    x: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-    y: 515.2
-    width: 1223.8
-    height: 268.19998
-=======
-    y: 540
-    width: 1223.8
-    height: 283.4
->>>>>>> checkpoint-campfire
-=======
-    y: 511.2
-    width: 1223.8
-    height: 264.19998
->>>>>>> Thomas1
-=======
-    x: 7.3333335
-    y: 566.6667
-    width: 1347.6666
-    height: 297.00003
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter:
@@ -734,93 +311,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
     - Assets
-=======
-    - Assets/Scenes
->>>>>>> main
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-<<<<<<< HEAD
-<<<<<<< HEAD
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: U:\layout
-=======
-  - Assets/Scenes/ThomasScene
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\thoma\OneDrive\Bureaublad\Winter-Gamjam
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-  - Assets/Scenes/ThomasScene
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\thoma\OneDrive\Bureaublad\Winter-Gamjam
-=======
-<<<<<<< HEAD
-  - Packages
-  m_LastFoldersGridSize: -1
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-  m_LastProjectPath: C:\Users\herok\OneDrive\Documenten\GJ\Winter-Gamjam
-=======
-  m_LastProjectPath: C:\Users\thoma\OneDrive\Documenten\git kraken of hub\HTML CSS\Winter-Gamjam
->>>>>>> checkpoint-campfire
-=======
-  - Assets/prefab
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\thoma\OneDrive\Bureaublad\Winter-Gamjam
->>>>>>> Thomas1
-=======
-  m_LastProjectPath: C:\Users\srtko\Desktop\HTML_Opdrachten\Winter-Gamjam
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
     m_SelectedIDs: f4350000
     m_LastClickedID: 13812
     m_ExpandedIDs: 00000000f435000000ca9a3b
-=======
-    m_SelectedIDs: 9c5f0000
-    m_LastClickedID: 24476
-    m_ExpandedIDs: 00000000845f0000865f0000885f00008a5f00008c5f00008e5f000000ca9a3b
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    m_SelectedIDs: 9c5f0000
-    m_LastClickedID: 24476
-    m_ExpandedIDs: 00000000845f0000865f0000885f00008a5f00008c5f00008e5f000000ca9a3b
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-    m_SelectedIDs: 745f0000
-    m_LastClickedID: 24436
-    m_ExpandedIDs: 00000000745f0000
-=======
-    m_SelectedIDs: ffffff7f
-    m_LastClickedID: 2147483647
-    m_ExpandedIDs: 0000000000ca9a3b
->>>>>>> checkpoint-campfire
-=======
-    m_SelectedIDs: 945f0000
-    m_LastClickedID: 24468
-    m_ExpandedIDs: 00000000785f00007a5f00007c5f00007e5f0000805f0000825f000000ca9a3b
->>>>>>> Thomas1
-=======
-    m_SelectedIDs: 92910000
-    m_LastClickedID: 37266
-    m_ExpandedIDs: 0000000000ca9a3bffffff7f
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -848,31 +353,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
     m_LastClickedID: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: 00000000f4350000
-=======
-    m_ExpandedIDs: 00000000845f0000865f0000885f00008a5f00008c5f00008e5f0000
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-    m_ExpandedIDs: 00000000845f0000865f0000885f00008a5f00008c5f00008e5f0000
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000745f0000
-=======
-    m_ExpandedIDs: 
->>>>>>> checkpoint-campfire
-=======
-    m_ExpandedIDs: 00000000785f00007a5f00007c5f00007e5f0000805f0000825f0000
->>>>>>> Thomas1
-=======
-    m_ExpandedIDs: 
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name:
@@ -899,24 +380,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs:
     m_LastClickedInstanceID: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
-=======
-=======
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
-=======
->>>>>>> Stashed changes
->>>>>>> main
-    m_HadKeyboardFocusLastEvent: 1
->>>>>>> main
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -965,67 +429,21 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 3170
     y: 332.5
     width: 284
     height: 644
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 1168.8
-    y: 80.8
-    width: 359
-    height: 687.4
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-    x: 1224.8
-    y: 73.6
-    width: 310.19995
-    height: 709.8
-=======
-    x: -24375.201
-    y: -25569.6
-    width: 310.19995
-    height: 749.8
->>>>>>> checkpoint-campfire
-=======
-    x: 1224.8
-    y: 73.6
-    width: 310.19995
-    height: 701.8
->>>>>>> Thomas1
-=======
-    x: 1356
-    y: 80
-    width: 342.33337
-    height: 783.6667
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization:
   m_PreviewResizer:
-    m_CachedPref: -160
+    m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
-<<<<<<< HEAD
   m_AssetGUID:
   m_InstanceID: 0
-=======
-  m_GlobalObjectId: 
-  m_InspectorMode: 0
->>>>>>> main
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
@@ -1049,84 +467,17 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 2249
     y: 332.5
     width: 227
     height: 373
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 7.2000003
-    y: 80.8
-    width: 287
-    height: 398.2
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-    x: 0
-    y: 73.6
-    width: 302.2
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 420.6
-=======
-    height: 445.4
->>>>>>> checkpoint-campfire
-=======
-    height: 416.6
->>>>>>> Thomas1
-=======
-    x: 7.3333335
-    y: 80
-    width: 333.66666
-    height: 465.66666
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
       m_SelectedIDs:
       m_LastClickedID: 0
       m_ExpandedIDs: 42fbffff
-=======
-      m_SelectedIDs: ea7d0000
-      m_LastClickedID: 32234
-      m_ExpandedIDs: c6a6ffffd0a6ffffd2a6ffff76a7ffff78a7ffff1afaffff24faffff2cfbffff
->>>>>>> main
-=======
-<<<<<<< Updated upstream
-      m_SelectedIDs: ea7d0000
-      m_LastClickedID: 32234
-      m_ExpandedIDs: c6a6ffffd0a6ffffd2a6ffff76a7ffff78a7ffff1afaffff24faffff2cfbffff
-=======
-<<<<<<< HEAD
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-      m_ExpandedIDs: fcf3fffff6f9ffff2cfbffff
-=======
-      m_ExpandedIDs: c2c5ffff
->>>>>>> checkpoint-campfire
-=======
-      m_SelectedIDs: 26faffff
-      m_LastClickedID: -1498
-      m_ExpandedIDs: 2cfbffff
->>>>>>> Thomas1
-=======
-      m_ExpandedIDs: c2c5ffff
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name:
@@ -1170,304 +521,12 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
     x: 2477
     y: 332.5
     width: 691
     height: 373
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    x: 295.2
-    y: 80.8
-    width: 871.6
-    height: 398.2
-=======
-<<<<<<< Updated upstream
-    x: 303.2
-    y: 73.6
-    width: 919.60004
-<<<<<<< HEAD
-<<<<<<< HEAD
-    height: 420.6
-=======
-    height: 445.4
->>>>>>> checkpoint-campfire
-=======
-    height: 416.6
->>>>>>> Thomas1
-=======
-    x: 342
-    y: 80
-    width: 1012
-    height: 465.66666
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData:
-    - dockPosition: 0
-      containerId: overlay-toolbar__top
-      floating: 0
-      collapsed: 0
-      displayed: 1
-<<<<<<< Updated upstream
-      snapOffset: {x: -100, y: -25.600006}
-      snapOffsetDelta: {x: 0, y: 0}
-=======
-<<<<<<< HEAD
-      snapOffset: {x: 0, y: 0}
-<<<<<<< Updated upstream
-      snapOffsetDelta: {x: -100, y: -25.600006}
-=======
-      snapOffset: {x: -100, y: -25.600006}
-      snapOffsetDelta: {x: 0, y: 0}
->>>>>>> Thomas1
-=======
-      snapOffsetDelta: {x: -98.66669, y: -26}
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-      snapCorner: 3
-      id: Tool Settings
-      index: 0
-      layout: 1
-    - dockPosition: 0
-      containerId: overlay-toolbar__top
-      floating: 0
-      collapsed: 0
-      displayed: 1
-      snapOffset: {x: -141, y: -224.6}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 3
-      id: unity-grid-and-snap-toolbar
-      index: 1
-      layout: 1
-    - dockPosition: 1
-      containerId: overlay-toolbar__top
-      floating: 0
-      collapsed: 0
-      displayed: 1
-      snapOffset: {x: 0, y: 24.8}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: unity-scene-view-toolbar
-      index: 0
-      layout: 1
-    - dockPosition: 1
-      containerId: overlay-toolbar__top
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 1
-      id: unity-search-toolbar
-      index: 1
-      layout: 1
-    - dockPosition: 0
-      containerId: overlay-container--left
-      floating: 0
-      collapsed: 0
-      displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: unity-transform-toolbar
-      index: 0
-      layout: 2
-    - dockPosition: 0
-      containerId: overlay-container--left
-      floating: 0
-      collapsed: 0
-      displayed: 1
-      snapOffset: {x: 0, y: 197}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: unity-component-tools
-      index: 1
-      layout: 2
-    - dockPosition: 0
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 1
-      snapOffset: {x: 67.5, y: 86}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Orientation
-      index: 0
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Light Settings
-      index: 0
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Camera
-      index: 1
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Cloth Constraints
-      index: 2
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Cloth Collisions
-      index: 3
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Navmesh Display
-      index: 4
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Agent Display
-      index: 5
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Obstacle Display
-      index: 6
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Occlusion Culling
-      index: 7
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Physics Debugger
-      index: 8
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Scene Visibility
-      index: 9
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Particles
-      index: 10
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Tilemap
-      index: 11
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-container--right
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Tilemap Palette Helper
-      index: 12
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-toolbar__top
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Open Tile Palette
-      index: 2
-      layout: 4
-    - dockPosition: 1
-      containerId: overlay-toolbar__top
-      floating: 0
-      collapsed: 0
-      displayed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      id: Scene View/Tilemap Focus
-      index: 3
-      layout: 4
->>>>>>> main
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
@@ -1478,15 +537,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
-=======
-    m_Target: {x: 435.7334, y: 202.57166, z: -0.3619769}
-    speed: 2
-    m_Value: {x: 435.7334, y: 202.57166, z: -0.3619769}
->>>>>>> main
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1536,15 +589,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-<<<<<<< HEAD
     m_Target: 10
     speed: 2
     m_Value: 10
-=======
-    m_Target: 61.838722
-    speed: 2
-    m_Value: 61.838722
->>>>>>> main
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1589,17 +636,10 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 507
     y: 94
     width: 1532
     height: 790
-=======
-    x: 295.2
-    y: 80.8
-    width: 871.6
-    height: 398.2
->>>>>>> main
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewsNames: []
   m_SerializedViewsValues: []
@@ -1607,11 +647,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-<<<<<<< HEAD
   m_TargetSize: {x: 640, y: 480}
-=======
-  m_TargetSize: {x: 871.6, y: 377.2}
->>>>>>> main
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 0
@@ -1626,51 +662,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
     m_VBaseRangeMin: -395
     m_VBaseRangeMax: 395
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-    m_HBaseRangeMin: -348.63998
-    m_HBaseRangeMax: 348.63998
-    m_VBaseRangeMin: -150.88
-    m_VBaseRangeMax: 150.88
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-    m_HBaseRangeMin: -367.84003
-    m_HBaseRangeMax: 367.84003
-    m_VBaseRangeMin: -159.84001
-    m_VBaseRangeMax: 159.84001
-=======
-    m_HBaseRangeMin: -612.8
-    m_HBaseRangeMax: 612.8
-    m_VBaseRangeMin: -307.6
-    m_VBaseRangeMax: 307.6
->>>>>>> checkpoint-campfire
-=======
-    m_HBaseRangeMin: -367.84003
-    m_HBaseRangeMax: 367.84003
-    m_VBaseRangeMin: -158.24
-    m_VBaseRangeMax: 158.24
->>>>>>> Thomas1
-=======
-    m_HBaseRangeMin: -510.6667
-    m_HBaseRangeMax: 510.6667
-    m_VBaseRangeMin: -256.33334
-    m_VBaseRangeMax: 256.33334
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1679,7 +674,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1687,27 +682,17 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-<<<<<<< HEAD
       y: 0
       width: 1532
       height: 790
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 395}
-=======
-      y: 21
-      width: 871.6
-      height: 377.2
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 435.8, y: 188.6}
->>>>>>> main
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
       x: -766
       y: -395
       width: 1532
@@ -1715,47 +700,6 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
-=======
-=======
-<<<<<<< Updated upstream
->>>>>>> main
-      x: -435.8
-      y: -188.6
-      width: 871.6
-      height: 377.2
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1089.5, y: 497.75}
-<<<<<<< HEAD
->>>>>>> main
-=======
-=======
-      x: -459.80002
-<<<<<<< HEAD
-      y: -199.8
-      width: 919.60004
-      height: 399.6
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-  m_LastWindowPixelSize: {x: 1149.5, y: 525.75}
-=======
-  m_LastWindowPixelSize: {x: 1915, y: 987.5}
->>>>>>> checkpoint-campfire
-=======
-      y: -197.8
-      width: 919.60004
-      height: 395.6
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1149.5, y: 520.75}
->>>>>>> Thomas1
-=======
-  m_LastWindowPixelSize: {x: 2298, y: 1185}
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> main
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1781,16 +725,9 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 2249
     y: 726.5
     width: 920
     height: 250
-=======
-    x: 7.2000003
-    y: 500
-    width: 1160.6
-    height: 268.2
->>>>>>> main
   m_ViewDataDictionary: {fileID: 0}
 

@@ -9,6 +9,8 @@ public class Movement : MonoBehaviour
     bool canJump = false;
     bool isFalling = false;
 
+    bool isOpen = false;
+
     public Vector2 direction;
     private Rigidbody2D body;
 
@@ -21,21 +23,31 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float inputX = Input.GetAxis("Horizontal") * speed;
+        if (!isOpen) {
+            float inputX = Input.GetAxis("Horizontal") * speed;
 
-        direction = new Vector2(inputX, body.velocity.y);
+            direction = new Vector2(inputX, body.velocity.y);
 
-        body.velocity = direction;
+            body.velocity = direction;
 
-        if (Input.GetKeyDown(KeyCode.Space) && canJump) {
-            body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            if (Input.GetKeyDown(KeyCode.Space) && canJump) {
+                body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+
+            if (isFalling) {
+                float fallSpeed = -3;
+                body.velocity = new Vector2(inputX, fallSpeed);
+                if (inputX != 0) {
+                    fallSpeed = fallSpeed * inputX;
+                }
+            }
         }
 
-        if (isFalling) {
-            float fallSpeed = -3;
-            body.velocity = new Vector2(inputX, fallSpeed);
-            if (inputX != 0) {
-                fallSpeed = fallSpeed * inputX;
+        if (Input.GetKeyDown(KeyCode.Tab)) {
+            if (!isOpen) {
+                isOpen = true;
+            } else {
+                isOpen = false;
             }
         }
     }

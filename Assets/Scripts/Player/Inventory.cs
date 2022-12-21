@@ -7,6 +7,7 @@ using TMPro;
 public class Inventory : MonoBehaviour
 {
     public GameObject inventory;
+
     //To add more items make another thing
     public int amountWood = 0;
     public TextMeshProUGUI wood;

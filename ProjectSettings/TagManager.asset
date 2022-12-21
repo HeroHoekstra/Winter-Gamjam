@@ -4,12 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
   - win
   - Death
   - ground
   - Wall
   - Ground
   - enemy
+=======
+  - Ground
+  - Wall
+>>>>>>> Crafting
   layers:
   - Default
   - TransparentFX

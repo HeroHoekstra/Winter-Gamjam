@@ -8,6 +8,12 @@ public class Movement : MonoBehaviour
     public float jumpForce = 5f;
     bool canJump = false;
     bool isFalling = false;
+<<<<<<< HEAD:Assets/Scripts/Movement.cs
+=======
+
+    bool isOpen = false;
+
+>>>>>>> Crafting:Assets/Scripts/Player/Movement.cs
     public Vector2 direction;
     private Rigidbody2D body;
 
@@ -20,6 +26,7 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+<<<<<<< HEAD:Assets/Scripts/Movement.cs
             float inputX = Input.GetAxis("Horizontal") * speed;
 
             direction = new Vector2(inputX, body.velocity.y);
@@ -28,6 +35,33 @@ public class Movement : MonoBehaviour
 
             if (Input.GetKeyDown(KeyCode.Space) && canJump) {
                 body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+=======
+        if (!isOpen) {
+            float inputX = Input.GetAxis("Horizontal") * speed;
+
+            direction = new Vector2(inputX, body.velocity.y);
+
+            body.velocity = direction;
+
+            if (Input.GetKeyDown(KeyCode.Space) && canJump) {
+                body.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+
+            if (isFalling) {
+                float fallSpeed = -3;
+                body.velocity = new Vector2(inputX, fallSpeed);
+                if (inputX != 0) {
+                    fallSpeed = fallSpeed * inputX;
+                }
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Tab)) {
+            if (!isOpen) {
+                isOpen = true;
+            } else {
+                isOpen = false;
+>>>>>>> Crafting:Assets/Scripts/Player/Movement.cs
             }
 
             if (isFalling) {

@@ -7,6 +7,9 @@ TagManager:
   - win
   - Death
   - ground
+  - Wall
+  - Ground
+  - enemy
   layers:
   - Default
   - TransparentFX

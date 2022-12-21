@@ -2,52 +2,68 @@ using UnityEngine;
 
 public class respawncamps : MonoBehaviour
 {
-public Vector2 respawnpoint =  new Vector2(0,0);
-public int maxHealth = 100;
-public int currentHealth;
-public HealthBar healthBar;
+    // Declare variables for the respawn point, max health, current health, and the health bar
+    public Vector2 respawnPoint = new Vector2(0, 0);
+    public int maxHealth = 100;
+    public int currentHealth;
+    public HealthBar healthBar;
 
-    void Awake()
+    void Start()
     {
+        // Set the current health to the max health and update the health bar
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
     }
+
     void Update()
     {
+        // Check if the current health is less than or equal to 0
+        if (currentHealth <= 0)
+        {
+            // If it is, call the die() method
+            Die();
+        }
     }
+
+    void OnCollision2D(Collider2D col) 
+    {
+        // Check if the collider has the "Death" tag
+        if (col.tag == "enemy")
+        {
+            // If it does, call the TakeDamage() method and pass in the value 20 as an argument
+            TakeDamage(20);
+            Debug.Log("damage");
+        }
+    }
+
+    void OnTriggerStay2D(Collider2D collision)
+    {
+        // Check if the collider has the "Respawn" tag
+        if (collision.tag == "Respawn")
+        {
+            // If it does, call the respawn() method
+            Respawn();
+        }
+    }
+
     void TakeDamage(int damage)
     {
+        // Subtract the damage from the current health and update the health bar
         currentHealth -= damage;
-
         healthBar.SetHealth(currentHealth);
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    void Die()
     {
-        if (collision.collider.tag == "Death")
-        {
-          TakeDamage(20);  
-        }
-        if (collision.collider.tag == "Respawn")
-        {
-           respawn();
-        }
-        if (currentHealth <=0)
-        {
-            die();
-        }
-    }
-
-    void die()
-    {
-        transform.position = respawnpoint;
+        // Set the position of the game object to the respawn point and log a message to the console
+        transform.position = respawnPoint;
         Debug.Log("you have ded");
     }
 
-    void respawn()
+    void Respawn()
     {
-         respawnpoint = new Vector2(0,0);
+        // Set the respawn point to a new location and log a message to the console
+        respawnPoint = new Vector2(71, 0);
         Debug.Log("respawn point set");
     }
 }
-//* tag for death == ("Death")  and for respawning ("Respawn")

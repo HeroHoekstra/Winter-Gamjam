@@ -13,5 +13,6 @@ public class AddItem : MonoBehaviour
 
     public void addStick() {
         Instantiate(stick);
+        DestroyImmediate(stick);
     }
 }

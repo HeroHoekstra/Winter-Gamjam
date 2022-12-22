@@ -8,10 +8,6 @@ public class Inventory : MonoBehaviour
 {
     public GameObject inventory;
 
-    //To add more items make another thing
-    public int amountWood = 0;
-    public TextMeshProUGUI wood;
-
     void start() {
         inventory = GetComponent<GameObject>();
     }
@@ -20,7 +16,6 @@ public class Inventory : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        wood.text = amountWood.ToString();
 
         if (Input.GetKeyDown(KeyCode.Tab)) {
             if (!isOpen) {

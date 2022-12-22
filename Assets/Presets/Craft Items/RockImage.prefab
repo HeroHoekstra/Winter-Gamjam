@@ -14,12 +14,12 @@ GameObject:
   - component: {fileID: 6765130770339242786}
   - component: {fileID: 8107535716669230870}
   - component: {fileID: -7226083036290441463}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RockImage
-  m_TagString: Untagged
+  m_TagString: _item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!224 &7200622705876127590
 RectTransform:
@@ -114,7 +114,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 6765130770339242786}
-  _item: {fileID: 7200622705876127590}
   outline: {fileID: 7502787106204944726}
   input: {x: 0, y: 0}
 --- !u!61 &-7226083036290441463
@@ -154,12 +153,12 @@ GameObject:
   - component: {fileID: 8889385631858656894}
   - component: {fileID: 5251236285064049511}
   - component: {fileID: 3037327721392170036}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RockOutline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!224 &8889385631858656894
 RectTransform:

@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Ground
   - Wall
+  - Item
+  - Stick
+  - Rope
+  - _item
   layers:
   - Default
   - TransparentFX
